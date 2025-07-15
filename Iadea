@@ -262,7 +262,7 @@
       <div class="player-identification">
         <div class="player-card" onclick="selectPlayer('iadea', event)" role="button" tabindex="0">
           <div class="player-icon">
-            <img src="https://i0.wp.com/www.iadea.com/wp-content/uploads/2018/01/MBR-1100-07-1.png?fit=650%2C450&ssl=1" alt="IADEA Player Image" style="width:100px;height:100px;">
+            <img src="https://imgur.com/a/GXtuAAr" alt="IADEA Player Image" style="width:100px;height:100px;">
           </div>
           <div class="player-name">IADEA Player</div>
           <div class="player-description">Small black box (cigarette pack size) with green LED light</div>
